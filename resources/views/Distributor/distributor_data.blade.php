@@ -17,7 +17,7 @@
                                 <th scope="col">Name</th>
                                 <th scope="col">Phone</th>
                                 <th scope="col">Business Name</th>
-                                <th colspan="3" scope="col">Action</th>
+                                <th colspan="3" scope="col">&nbsp;</th>
                             </tr>
                         </thead>
                         <tbody>
